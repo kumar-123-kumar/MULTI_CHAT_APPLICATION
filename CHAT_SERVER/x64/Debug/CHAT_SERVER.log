@@ -1,0 +1,8 @@
+﻿  CHAT_SERVER.cpp
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\CHAT_SERVER\CHAT_SERVER.cpp(86,8): warning C4101: 'temp': unreferenced local variable
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\CHAT_SERVER\CHAT_SERVER.cpp(183,6): warning C4101: 'temp_s_id': unreferenced local variable
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\CHAT_SERVER\CHAT_SERVER.cpp(277,8): warning C4101: 'i': unreferenced local variable
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\CHAT_SERVER\CHAT_SERVER.cpp(402,15): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\CHAT_SERVER\CHAT_SERVER.cpp(477,18): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\CHAT_SERVER\CHAT_SERVER.cpp(495,17): warning C4101: 'inaddr': unreferenced local variable
+  CHAT_SERVER.vcxproj -> C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\CHAT_SERVER\x64\Debug\CHAT_SERVER.exe
