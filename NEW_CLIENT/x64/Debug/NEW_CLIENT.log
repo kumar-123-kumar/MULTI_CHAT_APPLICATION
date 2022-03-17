@@ -1,0 +1,6 @@
+﻿  NEW_CLIENT.cpp
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\NEW_CLIENT\NEW_CLIENT.cpp(86,8): warning C4101: 'temp': unreferenced local variable
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\NEW_CLIENT\NEW_CLIENT.cpp(155,17): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\NEW_CLIENT\NEW_CLIENT.cpp(189,7): warning C4101: 'ch': unreferenced local variable
+C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\NEW_CLIENT\NEW_CLIENT.cpp(167,17): warning C4101: 'inaddr': unreferenced local variable
+  NEW_CLIENT.vcxproj -> C:\Users\Bhanusivateja\OneDrive\Desktop\CHAT_SYS\NEW_CLIENT\x64\Debug\NEW_CLIENT.exe
