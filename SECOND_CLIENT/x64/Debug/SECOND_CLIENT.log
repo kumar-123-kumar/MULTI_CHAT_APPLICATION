@@ -1,0 +1,6 @@
+﻿  SECOND_CLIENT.cpp
+C:\Users\Bhanusivateja\OneDrive\Desktop\MULTI_CHA_APPLICATION\SECOND_CLIENT\SECOND_CLIENT.cpp(36,8): warning C4101: 'temp': unreferenced local variable
+C:\Users\Bhanusivateja\OneDrive\Desktop\MULTI_CHA_APPLICATION\SECOND_CLIENT\SECOND_CLIENT.cpp(126,17): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Bhanusivateja\OneDrive\Desktop\MULTI_CHA_APPLICATION\SECOND_CLIENT\SECOND_CLIENT.cpp(137,17): warning C4101: 'inaddr': unreferenced local variable
+C:\Users\Bhanusivateja\OneDrive\Desktop\MULTI_CHA_APPLICATION\SECOND_CLIENT\SECOND_CLIENT.cpp(169,8): warning C4101: 'ch': unreferenced local variable
+  SECOND_CLIENT.vcxproj -> C:\Users\Bhanusivateja\OneDrive\Desktop\MULTI_CHA_APPLICATION\SECOND_CLIENT\x64\Debug\SECOND_CLIENT.exe
